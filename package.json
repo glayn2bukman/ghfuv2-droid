@@ -10,7 +10,7 @@
         "toolbar": false,
         "width": 1200,
         "height": 760,
-        "icon":"data/logo.png"
+        "icon":"data/logo-square-128x128.png"
         // "kiosk": true /* this will open the app in fullscreen mode like a game (no borders, etc)*/
         //"fullscreen":true /*same as kiosk*/
       }
